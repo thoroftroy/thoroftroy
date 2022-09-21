@@ -1,4 +1,4 @@
 - Hello There, I’m Atticus
-- I’m interested in Javascript, python, and gaming
-- I’m currently learning Python and mobile software deveolpment
+- I’m interested in Javascript, python, C++, etc and gaming
+- I’m currently learning Python and C#
 - You can reach me at thoroftroy2005@gmail.com or 812-363-2993
