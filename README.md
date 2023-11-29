@@ -1,5 +1,5 @@
 - Hello There, I’m Atticus
 - I very much like Javascript, python, and batch... C#/C++ and Java are bearable
-- I spend way too much time playing with BATCH
+- I no longer spend way too much time playing with BATCH... as I now use linux for everything
 - I’m currently working on learning Python and C#
 - You can reach me at thoroftroy2005@gmail.com or 812-363-2993
