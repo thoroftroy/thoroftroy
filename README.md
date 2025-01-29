@@ -1,4 +1,4 @@
 - Hello There, I’m Atticus
-- I mostly code in python and Gscript nowadays
+- I mostly code in python and shell nowadays
 - Linux is king, I'm never going back
 - You can reach me at thoroftroy2005@gmail.com or 812-363-2993
