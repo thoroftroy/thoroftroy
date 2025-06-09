@@ -1,4 +1,4 @@
-- Hello There, I’m Atticus
-- I mostly code in python and shell nowadays
-- Linux is king, I'm never going back
-- You can reach me at thoroftroy2005@gmail.com or 812-363-2993
+- Hello There, I’m Thoroftroy
+- I mostly code in python and shell nowadays, scripting is just so much easier than compiling 
+- Why do you still use windows?
+- You can reach me at thoroftroy2005@gmail.com
