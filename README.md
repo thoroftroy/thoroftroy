@@ -1,4 +1,4 @@
-- Hello There, I’m Thoroftroy
+- Hello There, I’m Atticus
 - I mostly code in python and shell nowadays, scripting is just so much easier than compiling 
 - Why do you still use windows?
 - You can reach me at thoroftroy2005@gmail.com
